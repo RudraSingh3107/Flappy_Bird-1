@@ -5,8 +5,8 @@ var ground;
 
 function preload(){
 
-  flappyImg = loadImage("images/flappy.png");
-  flappyImgUp = loadImage("images/flappyUp.png")
+  flappyImg = loadImage("flappy.png");
+  flappyImgUp = loadImage("flappyUp.png")
 
 }
  
